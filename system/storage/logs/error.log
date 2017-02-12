@@ -1,0 +1,15 @@
+2017-02-09 8:26:44 - PHP Notice:  Error: E-Mail to required! in E:\wamp\www\system\library\mail.php on line 61
+2017-02-09 16:41:48 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp\www\system\library\mail.php on line 164
+2017-02-09 16:42:24 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp\www\system\library\mail.php on line 164
+2017-02-11 3:39:37 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp\www\system\library\mail.php on line 164
+2017-02-11 3:44:36 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp\www\system\library\mail.php on line 164
+2017-02-12 5:43:45 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp\www\system\library\mail.php on line 164
+2017-02-12 7:54:56 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp\www\system\library\mail.php on line 164
+2017-02-12 7:59:00 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp\www\system\library\mail.php on line 164
+2017-02-12 8:03:41 - PHP Warning:  fsockopen():  in E:\wamp\www\system\library\mail.php on line 170
+2017-02-12 8:03:41 - PHP Notice:  Error: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ (10060) in E:\wamp\www\system\library\mail.php on line 173
+2017-02-12 8:06:42 - PHP Notice:  Error: MAIL FROM not accepted from server! in E:\wamp\www\system\library\mail.php on line 328
+2017-02-12 8:18:24 - PHP Notice:  Error: MAIL FROM not accepted from server! in E:\wamp\www\system\library\mail.php on line 328
+2017-02-12 8:24:17 - PHP Notice:  Error: MAIL FROM not accepted from server! in E:\wamp\www\system\library\mail.php on line 328
+2017-02-12 8:26:59 - PHP Notice:  Error: MAIL FROM not accepted from server! in E:\wamp\www\system\library\mail.php on line 328
